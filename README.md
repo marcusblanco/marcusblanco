@@ -17,4 +17,17 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 I would be glad to have some useful advice from knowledgeable people.
 - 📈 Блинб буду senior 
 
+- [ ] 🌐 Web-programming 🌐
+    - [ ] :octocat: Front-End
+        - [X] HTML
+        - [ ] CSS
+            - [X] Base
+            - [ ] Advanced level (In Progress)
+        - [ ] JavaScript
+            - [X] Base
+            - [ ] Advanced level (In Progress) [Includes Frameworks]
+     - [ ] :octocat: Back-end
+        - [X] Something will be here i guess, but later 🕞
+
+
 ![Banner](https://github.com/marcusblanco/marcusblanco/blob/main/1578081634_original.gif)
