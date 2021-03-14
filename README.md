@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/marcusblanco/marcusblanco/blob/main/Untitled-1.jpg)
 
  
 I'm learning how to code. I love making webpages with HTML,CSS and JavaScript. I also enjoy programming in C#,Java and C++ or Python sometimes. I like to programmig as it makes me think. 
