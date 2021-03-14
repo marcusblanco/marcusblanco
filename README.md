@@ -14,4 +14,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 I would be glad to have some useful advice from knowledgeable people.
 - 📈 Блинб буду senior 
 
-![Animeeeeeeeee]()
+![Banner](https://github.com/marcusblanco/marcusblanco/blob/main/1578081634_original.gif)
