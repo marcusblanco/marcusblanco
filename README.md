@@ -16,5 +16,6 @@
                 - [X] Redux
                 - [ ] Next.js
      - [ ] :octocat: Back-end
-        - [X] Something will be here i guess, but later 🕞
+        - [X] Express
 
+Also i used simple-peer,socket.io,lodash,uuid,storybook,typescript,formik,axios,clsx
